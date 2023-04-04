@@ -1,0 +1,47 @@
+"Most common way to access account for Nation, 2015 by Selected Household Characteristics"
+"Banked households that accessed account in past 12 months"
+
+"Row Variables","Number of Households (1000s)","Number of Households (PCT)","Bank teller","ATM/Kiosk","Telephone banking","Online banking","Mobile banking","Other"
+"All Households","117344","100","28.7","20.6","2.9","37.7","9.2","0.9"
+"Race/Ethnicity (PCT)",,,,,,,,
+"Black","13004","100","31.0","27.7","4.3","26.3","10.2","0.6"
+"Hispanic","14246","100","29.1","26.6","3.0","28.7","12.2","0.5"
+"Asian","5771","100","26.9","17.8","1.6","45.2","8.2","0.3"
+"American Indian or Alaska Native","689","100","31.3","21.0","4.6","32.4","9.8","0.9"
+"Native Hawaiian or Other Pacific Islander","NA","100","NA","NA","NA","NA","NA","NA"
+"White","81997","100","28.6","18.6","2.8","40.6","8.4","1.1"
+"Two or More Races","1381","100","18.0","20.1","3.4","38.5","19.7","0.4"
+"Age group (PCT)",,,,,,,,
+"15 to 24 years","5743","100","15.7","24.1","2.0","33.6","24.1","0.4"
+"25 to 34 years","18676","100","14.1","18.3","2.1","43.7","21.5","0.2"
+"35 to 44 years","19580","100","16.9","19.3","2.7","47.0","13.9","0.2"
+"45 to 54 years","22029","100","23.2","23.2","2.9","43.0","7.3","0.4"
+"55 to 64 years","22416","100","31.8","22.2","3.3","38.7","3.3","0.7"
+"65 years or more","28900","100","50.6","18.9","3.5","23.4","1.2","2.4"
+"Education (PCT)",,,,,,,,
+"No high school diploma","10223","100","51.2","25.9","4.2","12.3","3.9","2.5"
+"High school diploma","29589","100","38.8","23.7","3.6","25.5","7.3","1.2"
+"Some college","35193","100","26.0","21.1","3.3","37.6","11.3","0.7"
+"College degree","42339","100","18.6","16.6","1.8","52.4","10.1","0.4"
+"Employment status (PCT)",,,,,,,,
+"Employed","73928","100","20.8","19.8","2.4","44.4","12.2","0.4"
+"Unemployed","2939","100","21.5","29.1","2.0","36.0","11.1","0.4"
+"Not in labor force","40478","100","43.8","21.3","3.9","25.5","3.6","1.9"
+"Family income (PCT)",,,,,,,,
+"Less than $15,000","12991","100","42.4","25.0","4.5","18.7","6.8","2.6"
+"$15,000 to $30,000","18587","100","41.3","24.3","3.4","21.5","7.8","1.6"
+"$30,000 to $50,000","23782","100","33.0","23.3","3.7","29.9","9.4","0.7"
+"$50,000 to $75,000","22488","100","26.1","19.2","2.5","40.7","11.0","0.5"
+"At least $75,000","39497","100","17.2","16.5","1.9","54.5","9.5","0.3"
+"Disability status (PCT)",,,,,,,,
+"Disabled, aged 25 to 64","9265","100","32.8","27.1","5.4","26.9","6.4","1.4"
+"Not disabled, aged 25 to 64","73436","100","20.6","20.1","2.4","45.0","11.6","0.3"
+"Metropolitan and nonmetropolitan status (PCT)",,,,,,,,
+"Metropolitan area","100211","100","26.5","20.9","2.8","39.4","9.7","0.8"
+"Not in metropolitan area","16188","100","42.1","18.6","3.5","27.8","6.6","1.5"
+"Not identified","945","100","40.6","22.7","4.5","22.1","7.0","3.0"
+
+"Source: 2015 Survey of Unbanked and Underbanked Households"
+"Estimates may not match previously published estimates because missing values in the 2015 data have been replaced with imputed data."
+"NA indicates that the sample size is too small to produce a precise estimate."
+"Race/Ethnicity: A household is classified as Hispanic if the householder identifies as Hispanic or Latino regardless of race. A household is classified as Black if the householder identifies as Black or African American alone and not Hispanic or Latino. A household is classified as Asian if the householder identifies as Asian alone and not Hispanic or Latino. A household is classified as American Indian or Alaska Native if the householder identifies as American Indian or Alaska Native alone and not Hispanic or Latino. A household is classified as Native Hawaiian or Other Pacific Islander if the householder identifies as Native Hawaiian or Other Pacific Islander alone and not Hispanic or Latino. A household is classified as White if the householder identifies as White alone and not Hispanic or Latino. A household is classified as Two or More Races if the householder identifies as two or more races and not Hispanic or Latino."
